@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 MAINTAINER Alex Gandy <alexgandy@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
